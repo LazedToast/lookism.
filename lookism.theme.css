@@ -1,0 +1,68 @@
+/**
+ * @name Lookism
+ * @author Disease#5663
+ * @version 1.0.11
+ * @description macOS with barely any customization.
+ * @source https://github.com/maenDisease/Solana
+ * @invite BShu37e4jg
+ * @website https://maendisease.github.io/
+ * @authorId 678469587444170762
+ * @BDEditor Solana
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Bookman+Old+Style:wght@100;300;400;500;700&display=swap');
+@import url('https://maendisease.github.io/Solana/Solana.css');
+@import url('https://maendisease.github.io/BetterDiscordStuff/css/bdAddonMini.css');
+@import url('https://maendisease.github.io/BetterDiscordStuff/Themes/Solana/addon/mac-titlebar.css');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Apple.css');
+
+:root {
+  --accent-hue: 0;
+  --accent-saturation: 30%;
+  --accent-brightness: 41%;
+  --background-accent-hue: 0;
+  --background-accent-saturation: 47%;
+  --background-accent-brightness: 68%;
+  --background-image: url('https://e0.pxfuel.com/wallpapers/90/474/desktop-wallpaper-lookism.jpg'); /* url(https://site.com/foobar.png) | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --background-image-position: center;
+  --background-image-size: cover;
+  --background-image-blur: 0px;
+  --background-overlay-opacity: 55%;
+  --background-overlay-color-lightness: -0.37;
+  --background-hue-shift-strength: 100%;
+  --window-background-image: url('https://e0.pxfuel.com/wallpapers/114/685/desktop-wallpaper-lookism-jake-and-samuel-lockscreen-gambar-anime-gambar-desain.jpg');
+  --window-background-image-position: center;
+  --window-background-image-size: cover;
+  --window-background-image-attachment: fixed;
+  --window-opacity: 100%;
+  --window-blur: 0;
+  --window-friends-blur: 0;
+  --window-margin: 24;
+  --window-margin-left: 0;
+  --window-border-radius: 10px;
+  --window-background-lightness: 0;
+  --window-accent-tint-strength: 5%;
+  --chat-bubble: 0;
+  --text-link-hue: 212;
+  --chat-text-brightness: 0;
+  --home-icon: url('https://e0.pxfuel.com/wallpapers/31/580/desktop-wallpaper-lookism-head-nose.jpg');
+  --favorites-icon: url('https://e0.pxfuel.com/wallpapers/29/56/desktop-wallpaper-lookism-page-3-korean-webtoon.jpg');
+  --dock-blur: 0; /* Blur intensity of the dock. */
+  --dock-border-radius: 0;
+  --sidebar-width: 240px;
+  --members-width: 240px;
+  --sidebar-text-brightness: 0;
+  --background-floating-blur: 20px;
+  --floating-background-lightness: 0;
+  --background-floating-opacity: 1;
+  --enable-floating-transparency: 1;
+  --custom-font-display: Bookman Old Style;
+  --custom-font-regular: Bookman Old Style;
+  --custom-font-primary: Bookman Old Style;
+  --custom-font-code: Bookman Old Style;
+  --enable-blur: 1;
+}
+
+/* Any custom CSS below here */
+
+
